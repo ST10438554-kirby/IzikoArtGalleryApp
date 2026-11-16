@@ -8,10 +8,7 @@ import java.net.URL
 
 /**
  * Talks to the same Python server as the website (server/app.py), so both use one database.
- *
- * SET [BASE_URL] to your live server (for example the Render address). It must be https://.
- * For testing on the Android emulator against a server on your own computer use
- * "http://10.0.2.2:8000" and add android:usesCleartextTraffic="true" to the <application> tag.
+ 
  */
 object Api {
     const val BASE_URL = "https://YOUR-SERVER.onrender.com"
