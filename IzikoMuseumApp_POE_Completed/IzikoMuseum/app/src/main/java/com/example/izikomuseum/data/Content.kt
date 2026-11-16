@@ -2,7 +2,7 @@ package com.example.izikomuseum.data
 
 import com.example.izikomuseum.data.repository.Store
 
-/** All fixed text and game content, copied from the website's site.js so both match word for word. */
+/** All fixed text and game content,same as the website's site.js so both match. */
 object Content {
 
     val NAV = listOf(
@@ -85,7 +85,7 @@ object Content {
         ExplorerLevel("Gallery Master", 1000, "The collection holds no secrets from you.")
     )
 
-    /** The highest explorer level whose point threshold has been reached (0-based). */
+    /** The highest explorer level whose point threshold has been reached. */
     fun levelIndex(): Int = LEVELS.indices.lastOrNull { Store.pts >= LEVELS[it].from } ?: 0
 
     class Badge(val emoji: String, val name: String, val how: String, val earned: () -> Boolean)
@@ -131,7 +131,7 @@ object Content {
         "accessibility" to ("Accessibility" to "This app supports a dark mode, large text and four languages for menus. Tell us about any barrier: isang@iziko.org.za.")
     )
 
-    /** Chat assistant: the first pattern found in the question decides the answer (same rules as the website). */
+    /** Chat assistant: the first pattern found in the question decides the answer. */
     val FAQ = listOf(
         Regex("hour|open|close|time") to "We're open Monday to Sunday, 09:00–17:00. Closed on Christmas Day and Workers Day (1 May).",
         Regex("price|ticket|cost|fee|book") to "Adults R60; children (5–17), students and pensioners R40. SA students and pensioners enter free on Fridays with valid ID. Book at webtickets.co.za.",
