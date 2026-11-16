@@ -40,8 +40,7 @@ import com.example.izikomuseum.data.repository.AuthRepository
 import com.example.izikomuseum.data.repository.Store
 
 /**
- * The whole app lives in this one screen, like the website is one page with a router: a sticky top bar,
- * the current page, the footer, the gallery assistant button and toast messages.
+ * The whole app lives in this one screen
  */
 class MainActivity : AppCompatActivity(), Host {
 
@@ -88,7 +87,7 @@ class MainActivity : AppCompatActivity(), Host {
             }
         })
         buildRoot()
-        Store.pull { refreshPage() } // fetch progress saved from the website or another phone
+        Store.pull { refreshPage() } // fetch progress saved from the website 
     }
 
     override fun onSaveInstanceState(outState: Bundle) {
@@ -426,7 +425,7 @@ class MainActivity : AppCompatActivity(), Host {
         chatScroll?.post { chatScroll?.fullScroll(View.FOCUS_DOWN) }
     }
 
-    /** Keyword matching, no server needed: the first matching rule answers (same as the website). */
+    /** Keyword matching, no server needed: the first matching rule answers . */
     private fun ask(question: String, panelW: Int) {
         val q = question.lowercase()
         val answer = Content.FAQ.firstOrNull { it.first.containsMatchIn(q) }?.second ?: Content.FAQ_FALLBACK
