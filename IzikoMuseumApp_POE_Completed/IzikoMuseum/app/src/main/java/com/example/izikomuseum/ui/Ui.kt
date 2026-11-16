@@ -39,10 +39,7 @@ object Pal {
 }
 
 /**
- * Fonts. The website uses Playfair Display (headings) and DM Sans (body). To use the real fonts, drop
- * these files into res/font/: playfair_display_regular, playfair_display_bold, playfair_display_italic,
- * playfair_display_bolditalic, dm_sans_regular, dm_sans_medium, dm_sans_bold (.ttf). Until then the phone's
- * own serif and sans-serif fonts are used, which is also what the website falls back to.
+ * Fonts
  */
 object Fonts {
     private val cache = HashMap<String, Typeface>()
