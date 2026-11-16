@@ -10,7 +10,7 @@ import org.json.JSONObject
 /**
  * Museum data. It is read from assets/museum_seed.json, the very same file the website uses as its
  * offline data, so the app and the website always show the same artworks, artists and exhibitions.
- * Swap [load] for API calls later; the screens only use the functions at the bottom of this object.
+ * Swap [load] for API calls later.
  */
 object MuseumRepository {
 
