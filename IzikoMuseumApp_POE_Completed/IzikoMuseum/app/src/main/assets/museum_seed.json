@@ -1,0 +1,269 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Jane Alexander",
+      "lifespan": "b. 1959",
+      "origin": "South African",
+      "biography": "A South African sculptor who builds figures from plaster and adds found bone and horn. She made The Butcher Boys while she was still a master's student at the University of the Witwatersrand, and the work established her reputation.",
+      "image": null
+    },
+    {
+      "id": 2,
+      "name": "Irma Stern",
+      "lifespan": "1894 - 1966",
+      "origin": "South African",
+      "biography": "Born on 2 October 1894 in Schweizer-Reneke. Stern travelled widely, including to Zanzibar in 1939 and 1945 and to the Congo, and those journeys produced some of her best-known paintings. Her Cape Town home became the Irma Stern Museum in 1972.",
+      "image": "artist_irma_stern"
+    },
+    {
+      "id": 3,
+      "name": "Gerard Sekoto",
+      "lifespan": "1913 - 1993",
+      "origin": "South African",
+      "biography": "A painter and musician, born on 9 December 1913, who is regarded as a pioneer of modern South African art. He left South Africa in 1947. In 2000 the gallery received more than 2 500 items from his estate, known as the Sekoto Study Collection.",
+      "image": "artist_gerard_sekoto"
+    },
+    {
+      "id": 4,
+      "name": "Azaria Mbatha",
+      "lifespan": "b. 1941",
+      "origin": "South African",
+      "biography": "Born in Mahlabathini, KwaZulu-Natal, and one of the best-known artists linked to the Rorke's Drift Art Centre. Linocut was his preferred medium, and he later lived and worked in Sweden.",
+      "image": "artist_azaria_mbatha"
+    },
+    {
+      "id": 5,
+      "name": "Anton van Wouw",
+      "lifespan": "1862 - 1945",
+      "origin": "Dutch-born South African",
+      "biography": "A sculptor who worked in South Africa. His African Head was one of the first two works by South African artists bought for the national collection, in 1926.",
+      "image": "artist_anton_van_wouw"
+    },
+    {
+      "id": 6,
+      "name": "Neville Lewis",
+      "lifespan": "",
+      "origin": "South African",
+      "biography": "A South African painter. His Adderley Street Flower-sellers was bought in 1926, together with Anton van Wouw's African Head, as the first works by South African artists in the national collection.",
+      "image": "artist_neville_lewis"
+    },
+    {
+      "id": 7,
+      "name": "William Kentridge",
+      "lifespan": "b. 1955",
+      "origin": "South African",
+      "biography": "A Johannesburg-born artist known for drawing, printmaking, animated film and theatre. The gallery holds his series of five Soho Eckstein animated films, made between 1989 and 1996.",
+      "image": "artist_william_kentridge"
+    },
+    {
+      "id": 8,
+      "name": "Thomas Baines",
+      "lifespan": "1820 - 1875",
+      "origin": "English-born",
+      "biography": "An English-born artist and explorer who painted and drew landscapes and expeditions in southern Africa.",
+      "image": "artist_thomas_baines"
+    },
+    {
+      "id": 9,
+      "name": "Alexis Preller",
+      "lifespan": "1911 - 1975",
+      "origin": "South African",
+      "biography": "A South African painter whose work is held in the Iziko art collections.",
+      "image": null
+    },
+    {
+      "id": 10,
+      "name": "Pieter Wenning",
+      "lifespan": "1873 - 1921",
+      "origin": "Dutch-born South African",
+      "biography": "A Dutch-born painter who worked in South Africa. His work is held in the Iziko art collections.",
+      "image": "artist_pieter_wenning"
+    }
+  ],
+  "artworks": [
+    {
+      "id": 1,
+      "title": "The Butcher Boys",
+      "artistId": 1,
+      "artistName": "Jane Alexander",
+      "category": "Sculpture",
+      "date": "1985 - 1986",
+      "medium": "Reinforced plaster, animal bones, horns, oil paint and a wooden bench",
+      "dimensions": "128.5 x 213.5 x 88.5 cm",
+      "acquisition": "Acquired by the gallery in 1991",
+      "description": "Three life-size figures sit side by side on a bench, their bodies painted plaster with animal horns and bones worked in. Alexander made the sculpture in response to South Africa's State of Emergency in the mid-1980s, and it is widely read as a comment on the brutality of apartheid. It was first shown at the Market Theatre Gallery in Johannesburg in 1986 and is one of the most popular contemporary works in the gallery.",
+      "image": "butcher_boys",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "The Revelation of St John",
+      "artistId": 4,
+      "artistName": "Azaria Mbatha",
+      "category": "Print",
+      "date": "1965",
+      "medium": "Linocut print on paper",
+      "dimensions": "376 x 680 mm",
+      "acquisition": "Bought by the gallery after it won a printmaking award in 1965",
+      "description": "A large linocut that replaces the realism of Western religious art with abstract forms drawn from African sculpture and a rich network of pattern. It won the award for the finest example of printmaking at the 1965 exhibition Art South Africa Today in Durban. Matthys Bokhorst, the gallery's new director, was on the judging panel and decided to buy it.",
+      "image": "revelation_of_st_john",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Street Scene",
+      "artistId": 3,
+      "artistName": "Gerard Sekoto",
+      "category": "Painting",
+      "date": "1945",
+      "medium": "Oil on board",
+      "dimensions": "30.5 x 40.5 cm",
+      "acquisition": "Bought in 1964",
+      "description": "The first work by a Black South African artist to enter the gallery's collection. Sekoto moved from watercolour to oil paint and developed strong colour and a dense, solid texture. By the mid-1940s he was an important figure in South African art and the only Black artist chosen for the South African Art Exhibition at the Tate Gallery in London in 1948.",
+      "image": "street_scene",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "African Head",
+      "artistId": 5,
+      "artistName": "Anton van Wouw",
+      "category": "Sculpture",
+      "date": "Acquired 1926",
+      "medium": null,
+      "dimensions": null,
+      "acquisition": "Bought in 1926",
+      "description": "One of the first two works by South African artists bought for the national collection, in 1926. The other was Neville Lewis's Adderley Street Flower-sellers.",
+      "image": "african_head",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Adderley Street Flower-sellers",
+      "artistId": 6,
+      "artistName": "Neville Lewis",
+      "category": "Painting",
+      "date": "Acquired 1926",
+      "medium": null,
+      "dimensions": null,
+      "acquisition": "Bought in 1926",
+      "description": "Bought in 1926 together with Anton van Wouw's African Head. Until then the national collection had not acquired a work by a South African artist.",
+      "image": null,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Two Arabs, Dakar",
+      "artistId": 2,
+      "artistName": "Irma Stern",
+      "category": "Painting",
+      "date": "1938",
+      "medium": null,
+      "dimensions": null,
+      "acquisition": "Part of the Iziko South African National Gallery collection",
+      "description": "One of Irma Stern's celebrated portraits of Muslim subjects. Stern was drawn to the finery of the people she met on her travels, and this painting is part of the gallery's collection.",
+      "image": "two_arabs_dakar",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "title": "Arab Priest",
+      "artistId": 2,
+      "artistName": "Irma Stern",
+      "category": "Painting",
+      "date": "1945",
+      "medium": "Oil painting",
+      "dimensions": null,
+      "acquisition": "On loan from the Qatar Museums Authority. Not part of the Iziko collection",
+      "description": "Painted in Zanzibar in 1945 during Stern's second visit to the island. In 2011 it became the most expensive South African work sold at auction when Qatar Museums Authority bought it. The South African Heritage Resources Agency refused permanent export, ruling that it forms part of the national estate, and under a 20-year loan agreement it returns to South Africa every five years. It is the focal point of the exhibition Modernism and its Discontents at the gallery.",
+      "image": "arab_priest",
+      "featured": true
+    },
+    {
+      "id": 8,
+      "title": "Wagon Crossing a Drift, Natal",
+      "artistId": 8,
+      "artistName": "Thomas Baines",
+      "category": "Painting",
+      "date": "1874",
+      "medium": null,
+      "dimensions": null,
+      "acquisition": "Iziko Museums of South Africa collection",
+      "description": "A landscape by Thomas Baines, the English-born artist and explorer known for his paintings of southern Africa.",
+      "image": "wagon_crossing_a_drift",
+      "featured": true
+    },
+    {
+      "id": 9,
+      "title": "The Kraal",
+      "artistId": 9,
+      "artistName": "Alexis Preller",
+      "category": "Painting",
+      "date": "1948",
+      "medium": null,
+      "dimensions": null,
+      "acquisition": "Iziko Museums of South Africa collection",
+      "description": "A painting by Alexis Preller, held in the Iziko art collections.",
+      "image": "the_kraal",
+      "featured": true
+    },
+    {
+      "id": 10,
+      "title": "Rhodes Memorial",
+      "artistId": 10,
+      "artistName": "Pieter Wenning",
+      "category": "Painting",
+      "date": "1916",
+      "medium": null,
+      "dimensions": null,
+      "acquisition": "Iziko Museums of South Africa collection",
+      "description": "A painting by Pieter Wenning, held in the Iziko art collections.",
+      "image": "rhodes_memorial",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "title": "Soho Eckstein films",
+      "artistId": 7,
+      "artistName": "William Kentridge",
+      "category": "Film",
+      "date": "1989 - 1996",
+      "medium": "Five short animated films",
+      "dimensions": null,
+      "acquisition": "Part of the Iziko South African National Gallery contemporary collection",
+      "description": "The gallery holds William Kentridge's series of five Soho Eckstein animated films, made between 1989 and 1996.",
+      "image": "soho_eckstein_films",
+      "featured": false
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": 1,
+      "title": "Modernism and its Discontents: South African Art from the Permanent Collection, 1925 - 2025",
+      "dates": "Open since 24 September 2026",
+      "status": "On now",
+      "curator": "Andrew Lamprecht",
+      "summary": "Draws on the gallery's own collection to look at a century of modernism in South African art. The focal point is Irma Stern's Arab Priest (1945), returning to South Africa on loan. The title nods to the resistance modernism met in 1945, when the gallery's director, Edward Roworth, was strongly opposed to it.",
+      "image": "arab_priest"
+    },
+    {
+      "id": 2,
+      "title": "Matereality V2",
+      "dates": "21 Aug 2026 - 30 Jun 2027",
+      "status": "On now",
+      "curator": "Andrea Lewis",
+      "summary": "More than 100 works by about 70 artists across five rooms, showing how everyday and industrial materials such as soil, timber, sugar, wire and reclaimed objects carry ideas about identity, memory, land and labour in contemporary African art. Artists include Bonolo Kavula, Kamyar Bineshtarigh, Senzeni Marasela, Dada Khanyisa, Elias Sime and Abdoulaye Konate.",
+      "image": "exhibition_matereality"
+    },
+    {
+      "id": 3,
+      "title": "In Slavery's Wake: Making Black Freedom in the World",
+      "dates": "22 May - 31 Oct 2026",
+      "status": "Closes 31 October",
+      "curator": "Shanaaz Galant (Iziko Slave Lodge) with the Smithsonian NMAAHC team",
+      "summary": "A major international travelling exhibition developed by the Smithsonian National Museum of African American History and Culture with partners around the world. Visitors see about 190 objects, 250 images and 10 multimedia interactives and films on slavery, colonialism and Black freedom-making. Cape Town is the third stop on the global tour.",
+      "image": "exhibition_in_slavery_wake"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019270634648",
+    "project_id": "iziko-museum",
+    "storage_bucket": "iziko-museum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019270634648:android:9d850c15395ef30e8c04ed",
+        "android_client_info": {
+          "package_name": "com.example.izikomuseum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019270634648-bitvn6ta3siofilsbudr4tjbgk0nfju2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezCwoeIbOKfF9GqC7yUjLujqZs3LMgeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019270634648-bitvn6ta3siofilsbudr4tjbgk0nfju2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

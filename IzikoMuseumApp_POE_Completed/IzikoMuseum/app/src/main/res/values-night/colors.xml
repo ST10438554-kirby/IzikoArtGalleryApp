@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="iziko_background">#1B1714</color>
+    <color name="iziko_amber">#E39A55</color>
+    <color name="iziko_rust">#C2410C</color>
+    <color name="iziko_ink">#F2EDE4</color>
+</resources>
